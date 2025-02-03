@@ -1,0 +1,51 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 30%; pic size */
+}
+
+h1, h2, h5, h6, p, fieldset {
+    text-align: center;
+    color: #D5FFFF;
+    /* 
+    Dark Blue (#1A237E) – Elegant and strong.
+    White (#FFFFFF) with a shadow – Soft and dreamy.
+    Deep Burgundy (#800020) – Passionate and warm.
+    Dark Red (#B22222) – Passionate and bold, perfect for a romantic gesture.
+    Deep Brown (#5D4037) – Warm and cozy, like a heartfelt confession.
+    Dark Purple (#4A148C) – Mysterious and intimate, adds charm.
+    Deep Teal (#005B5B) – Cool and unique, stands out in a classy way.
+    */
+}
+body 
+{
+    background-image: url("https://us.123rf.com/450wm/pskov/pskov2206/pskov220600002/188763490-pixel-art-star-sky-at-night-starry-sky-seamless-tile-backdrop-space-galaxy-cosmos-universe-view.jpg");
+    /*background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;*/
+}
+.duecentoquattro /* for classes */
+{
+    opacity: 75%;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+}
+.moon
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+    size: 33.5%;
+    size-adjust: 20px;
+    width: 6%;
+}
+aside 
+{
+    width: 10%;
+    float: right;
+}
